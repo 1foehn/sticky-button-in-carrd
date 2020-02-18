@@ -1,2 +1,2 @@
-# sticky-button
+# Sticky Button Carrd
 Sticky Button
