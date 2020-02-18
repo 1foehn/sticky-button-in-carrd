@@ -14,4 +14,15 @@
 ## 2. Copy the code from index.html file and paste it inside the CODE field
 
 
-![ScrrenshotOfTheButton](https://image.crd.co/assets/images/image02.gif?v20269863402851)
+![ScrrenshotOfTheButton2](https://image.crd.co/assets/images/image02.gif?v20269863402851)
+
+
+## 3. Publish the website
+
+![ScrrenshotOfTheButton3](https://image.crd.co/assets/images/image03.jpg?v20269863402851)
+
+![ScrrenshotOfTheButton4](https://image.crd.co/assets/images/image06.jpg?v42347145402851)
+
+![ScrrenshotOfTheButton5](https://image.crd.co/assets/images/image05.jpg?v42347145402851)
+
+
