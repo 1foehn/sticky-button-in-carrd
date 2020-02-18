@@ -9,7 +9,7 @@
 
 ### 1. Add embed element
 
-![ScrrenshotOfTheButton](https://image.crd.co/assets/images/image02.jpg?v43338223402851)
+![ScrrenshotOfTheButton](https://image.crd.co/assets/images/image04.jpg?v20269863402851)
 
 ## 2. Copy the code from index.html file and paste it inside the CODE field
 
